@@ -1,0 +1,19 @@
+{
+  "name": "e02-turner-white",
+  "version": "1.0.0",
+  "description": "[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7760522&assignment_repo_type=AssignmentRepo) # e02 React grade calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-spring/e02-turner-white.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-spring/e02-turner-white/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-spring/e02-turner-white#readme"
+}
