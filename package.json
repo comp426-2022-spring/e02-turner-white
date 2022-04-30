@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/comp426-2022-spring/e02-turner-white/issues"
   },
-  "homepage": "https://github.com/comp426-2022-spring/e02-turner-white#readme"
+  "homepage": "https://github.com/comp426-2022-spring/e02-turner-white#readme",
+  "dependencies": {
+    "create-react-app": "^5.0.1"
+  }
 }
